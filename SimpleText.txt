@@ -1,0 +1,10 @@
+
+Product no 1, Price:   1000
+the current payment is 1000
+Product no 3, Price:   1200
+the current payment is 2200
+Product no 5, Price:   1200
+the current payment is 3400
+Customer Name: gvff
+Customer Mobile no: gdfff
+Customer Address: vtrgcvdgf
